@@ -6,7 +6,7 @@
     * Zahra-Nancy AMGHAR 
     * Fériel DOUAIRI 3
     * Arsham ALIHARED 4
-* **URL du dépôt :** [Lien GitHub]
+* **URL du dépôt :** https://github.com/crignyclara-cell/Projet_Info_S2/blob/main/README.md
 
 ## Utilisation du programme
 1. **Prérequis :** (Ex: Avoir Python 3.10 installé)
