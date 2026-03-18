@@ -2,9 +2,9 @@
 
 ## Informations du groupe
 * **Groupe de TD :** L1 BI TD4
-* **Étudiants :** * Clara CRIGNY 1
-    *  AMGHAR 2
-    * Prénom DOUAIRI 3
+* **Étudiants :**  Clara CRIGNY 
+    * Zahra-Nancy AMGHAR 
+    * Fériel DOUAIRI 3
     * Arsham ALIHARED 4
 * **URL du dépôt :** [Lien GitHub]
 
