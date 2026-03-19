@@ -6,11 +6,10 @@
     * Zahra-Nancy AMGHAR 
     * Fériel DOUAIRI 3
     * Arsham ALIHARED 4
-* **URL du dépôt :** https://github.com/crignyclara-cell/Projet_Info_S2/blob/main/README.md
-
+* **URL du dépôt :** https://github.com/crignyclara-cell/Projet_Info_S2/edit/main/README.md
 
 ## Crédits et Sources 
-* **Code externe :**
+* **Sources externes :**
 -Le widget Entry (les cases) 
 -Documentation officielle (Python.org) : Explique les options comme width, justify ou state.
 -La méthode .grid() (le placement) :Guide Tkinter - Grid : Explique comment fonctionnent row, column, padx et pady.
