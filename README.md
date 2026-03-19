@@ -8,7 +8,7 @@
     * Arsham ALIHARED 4
 * **URL du dépôt :** https://github.com/crignyclara-cell/Projet_Info_S2/edit/main/README.md
 
-## Crédits et Sources 
+## Sources 
 * **Sources externes :**
 -Le widget Entry (les cases) 
 -Documentation officielle (Python.org) : Explique les options comme width, justify ou state.
