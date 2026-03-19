@@ -10,5 +10,10 @@
 
 
 ## Crédits et Sources 
-* **Code externe :** 
-* **Utilisation d'IA :** Nous avons utilisé Gemini pour comprendre comment créer et utiliser un fichier README 
+* **Code externe :**
+-Le widget Entry (les cases) 
+-Documentation officielle (Python.org) : Explique les options comme width, justify ou state.
+-La méthode .grid() (le placement) :Guide Tkinter - Grid : Explique comment fonctionnent row, column, padx et pady.
+-Les messagebox (alertes) : Effbot - Tkinter Messagebox : Liste les différences entre showerror, showwarning et showinfo.
+-Tutoriel simplifié pour débutants : Cours-Python.com - Tkinter 
+* **Utilisation externe :** Nous avons utilisé Gemini pour comprendre comment créer et utiliser un fichier README 
