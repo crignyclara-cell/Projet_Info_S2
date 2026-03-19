@@ -21,10 +21,6 @@
 
 import tkinter as tk  # Importation de la bibliothèque pour créer des fenêtres
 from tkinter import messagebox  # Importation pour afficher des messages d'alerte (Pop-up)
-
-# --- 1. LES DONNÉES DU JEU (MATRICES) ---
-# Grille de départ : les 0 sont les cases vides que l'utilisateur doit remplir
-# Source : https://docs.python.org/3/tutorial/datastructures.html#nested-list-comprehensions
 grille_jeu = [
     [0, 0, 0, 2, 6, 0, 7, 0, 1],
     [6, 8, 0, 0, 7, 0, 0, 9, 0],
@@ -37,7 +33,6 @@ grille_jeu = [
     [7, 0, 3, 0, 1, 8, 0, 0, 0]
 ]
 
-# Grille de solution complète pour comparer les résultats
 solution = [
     [4, 3, 5, 2, 6, 9, 7, 8, 1],
     [6, 8, 2, 5, 7, 1, 4, 9, 3],
@@ -50,11 +45,11 @@ solution = [
     [7, 6, 3, 4, 1, 8, 2, 5, 9]
 ]
 
-# Liste globale pour stocker les objets 'Entry' et y accéder plus tard
+Liste globale pour stocker les objets 'Entry' et y accéder plus tard
 toutes_les_cases = []
 
-# --- 2. LA FONCTION DE VÉRIFICATION ---
-# Cette fonction est appelée quand on clique sur le bouton
+
+Cette fonction est appelée quand on clique sur le bouton
 def verifier_la_grille():
     nombre_erreurs = 0  # On initialise un compteur d'erreurs à 0
     nombre_cases_vides = 0  # On initialise un compteur de cases vides
@@ -90,7 +85,6 @@ def verifier_la_grille():
     else:
         messagebox.showinfo("Succès", "Bravo ! Tout est correct.")
 
-# --- 3. CRÉATION DE L'INTERFACE GRAPHIQUE ---
 fenetre = tk.Tk()  # Initialisation de la fenêtre principale
 fenetre.title("Projet Sudoku L1 Bio-Info")
 
@@ -122,7 +116,7 @@ for i in range(9):
         liste_ligne.append(case)  # On ajoute la case à la ligne
     toutes_les_cases.append(liste_ligne)  # On ajoute la ligne à la liste globale
 
-# Création et placement du bouton de validation
+Création et placement du bouton de validation
 bouton = tk.Button(fenetre, text="Vérifier ma solution", command=verifier_la_grille)
 bouton.grid(row=9, column=0, columnspan=9, pady=20)
 
