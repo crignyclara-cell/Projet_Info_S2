@@ -15,17 +15,17 @@ La règle principale est qu'il faut placer les chiffres de 1 à 9 dans chaque li
 ## Sources 
 * **Sources externes (sur la documentation ptyhon) :**
 
-- input() : Utilisé pour récupérer la saisie du joueur (ligne, colonne, valeur) via le terminal.
+-   input() : Utilisé pour récupérer la saisie du joueur (ligne, colonne, valeur) via le terminal.
 
-- str.split() : Utilisé pour découper la chaîne de caractères saisie en une liste de nombres exploitables.
+-   str.split() : Utilisé pour découper la chaîne de caractères saisie en une liste de nombres exploitables.
 
-- enumerate() : Utilisé pour parcourir la grille en obtenant simultanément l'index et le contenu de chaque ligne.
+-   enumerate() : Utilisé pour parcourir la grille en obtenant simultanément l'index et le contenu de chaque ligne.
 
-- try...except : Utilisé pour sécuriser le programme contre les erreurs de saisie (empêche le crash si l'utilisateur tape du texte).
+-   try...except : Utilisé pour sécuriser le programme contre les erreurs de saisie (empêche le crash si l'utilisateur tape du texte).
 
-- // (Division entière) : Utilisé pour calculer les coordonnées des blocs 3x3 lors de la vérification des règles.
+-   // (Division entière) : Utilisé pour calculer les coordonnées des blocs 3x3 lors de la vérification des règles.
 
-- in (Opérateur d'appartenance) : Utilisé pour vérifier rapidement si un chiffre existe déjà dans une ligne ou une liste.
+-   in (Opérateur d'appartenance) : Utilisé pour vérifier rapidement si un chiffre existe déjà dans une ligne ou une liste.
   
 * **Utilisation externe :** Nous avons utilisé Gemini pour comprendre comment créer et utiliser un fichier README 
 
