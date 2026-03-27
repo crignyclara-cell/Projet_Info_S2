@@ -8,6 +8,9 @@
     * Arsham ALIHARED 4
 * **URL du dépôt :** https://github.com/crignyclara-cell/Projet_Info_S2/edit/main/README.md
 
+## Règles du jeu : 
+La règle principale est qu'il faut placer les chiffres de 1 à 9 dans chaque ligne, chaque colonne et chaque sous-carré sans en avoir deux identiques. Par exemple, il ne faut jamais placer le chiffre 5 deux fois dans la même ligne
+
 ## Sources 
 * **Sources externes :**
 -Le widget Entry (les cases) 
