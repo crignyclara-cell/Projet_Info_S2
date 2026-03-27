@@ -4,8 +4,8 @@
 * **Groupe de TD :** L1 BI TD4
 * **Étudiants :**  Clara CRIGNY 
     * Zahra-Nancy AMGHAR
-    * Fériel DOUAIRI 3
-    * Arsham ALIHARED 4
+    * Fériel DOUAIRI 
+    * Arsham ALIHARED 
 * **URL du dépôt :** https://github.com/crignyclara-cell/Projet_Info_S2/edit/main/README.md
 
 ## Règles du jeu 
