@@ -13,18 +13,20 @@
 La règle principale est qu'il faut placer les chiffres de 1 à 9 dans chaque ligne, chaque colonne et chaque sous-carré sans en avoir deux identiques. Par exemple, il ne faut jamais placer le chiffre 5 deux fois dans la même ligne
 
 ## Sources 
-* **Sources externes :**
+* **Sources externes (sur la documentation ptyhon) :**
 
--Le widget Entry (les cases)
+- input() : Utilisé pour récupérer la saisie du joueur (ligne, colonne, valeur) via le terminal.
 
--Documentation officielle (Python.org) : Explique les options comme width, justify ou state.
+- str.split() : Utilisé pour découper la chaîne de caractères saisie en une liste de nombres exploitables.
 
--La méthode .grid() (le placement) :Guide Tkinter - Grid : Explique comment fonctionnent row, column, padx et pady.
+- enumerate() : Utilisé pour parcourir la grille en obtenant simultanément l'index et le contenu de chaque ligne.
 
--Les messagebox (alertes) : Effbot - Tkinter Messagebox : Liste les différences entre showerror, showwarning et showinfo.
+- try...except : Utilisé pour sécuriser le programme contre les erreurs de saisie (empêche le crash si l'utilisateur tape du texte).
 
--Tutoriel simplifié pour débutants : Cours-Python.com - Tkinter 
+- // (Division entière) : Utilisé pour calculer les coordonnées des blocs 3x3 lors de la vérification des règles.
 
+- in (Opérateur d'appartenance) : Utilisé pour vérifier rapidement si un chiffre existe déjà dans une ligne ou une liste.
+  
 * **Utilisation externe :** Nous avons utilisé Gemini pour comprendre comment créer et utiliser un fichier README 
 
 
