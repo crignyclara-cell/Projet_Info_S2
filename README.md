@@ -2,7 +2,8 @@
 
 ## Informations du groupe
 * **Groupe de TD :** L1 BI TD4
-* **Étudiants :**  Clara CRIGNY 
+* **Étudiants :**
+    * Clara CRIGNY 
     * Zahra-Nancy AMGHAR
     * Fériel DOUAIRI 
     * Arsham ALIHARED 
