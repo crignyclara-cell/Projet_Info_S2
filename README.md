@@ -13,6 +13,7 @@ La règle principale est qu'il faut placer les chiffres de 1 à 9 dans chaque li
 
 ## Sources 
 * **Sources externes :**
+
 -Le widget Entry (les cases)
 
 -Documentation officielle (Python.org) : Explique les options comme width, justify ou state.
