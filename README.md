@@ -15,18 +15,47 @@ La règle principale est qu'il faut placer les chiffres de 1 à 9 dans chaque li
 ## Sources 
 * **Sources externes (sur la documentation ptyhon) :**
 
--   input() : Utilisé pour récupérer la saisie du joueur (ligne, colonne, valeur) via le terminal.
+Voici la liste simple demandée 👇
 
--   str.split() : Utilisé pour découper la chaîne de caractères saisie en une liste de nombres exploitables.
+* `class` = créer une structure d’objet
+* `self` = désigne l’objet actuel
+* `__init__` = initialise l’objet
+* `def` = définir une fonction
+* `self.variable` = variable de l’objet
+* `if` = condition
+* `for` = boucle
+* `range()` = générer des nombres
+* `list` (`[]`) = stocker des données
+* `[[...]]` = matrice (grille 2D)
+* `None` = valeur vide
+* `tk.Tk()` = créer une fenêtre
+* `tk.Frame()` = conteneur
+* `tk.Canvas()` = zone de dessin
+* `tk.Button()` = bouton
+* `tk.Label()` = texte affiché
+* `tk.OptionMenu()` = menu déroulant
+* `.pack()` = placer un élément
+* `.bind()` = gérer un événement
+* `<Button-1>` = clic souris
+* `<Key>` = touche clavier
+* `lambda` = fonction rapide
+* `.create_rectangle()` = dessiner un carré
+* `.create_text()` = écrire du texte
+* `.create_line()` = dessiner une ligne
+* `.delete()` = effacer le canvas
+* `random.shuffle()` = mélanger
+* `time.time()` = temps actuel
+* `json.dump()` = sauvegarder
+* `json.load()` = charger
+* `.after()` = exécuter après délai
+* `messagebox.showinfo()` = message info
+* `messagebox.showerror()` = message erreur
+* `open()` = ouvrir fichier
+* `with` = gestion sécurisée fichier
+* `try / except` = gérer erreurs
+* `__name__ == "__main__"` = point de départ programme
 
--   enumerate() : Utilisé pour parcourir la grille en obtenant simultanément l'index et le contenu de chaque ligne.
-
--   try...except : Utilisé pour sécuriser le programme contre les erreurs de saisie (empêche le crash si l'utilisateur tape du texte).
-
--   // (Division entière) : Utilisé pour calculer les coordonnées des blocs 3x3 lors de la vérification des règles.
-
--   in (Opérateur d'appartenance) : Utilisé pour vérifier rapidement si un chiffre existe déjà dans une ligne ou une liste.
   
-* **Utilisation externe :** Nous avons utilisé Gemini pour comprendre comment créer et utiliser un fichier README 
+* **Utilisation externe :** Nous avons utilisé Gemini pour comprendre comment créer et utiliser un fichier README,pour class et self.
 
 
